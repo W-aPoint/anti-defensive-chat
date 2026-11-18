@@ -1,0 +1,17 @@
+{
+  "name": "anti-defensive-chat",
+  "displayName": "Anti-Defensive Chat",
+  "version": "1.0.0",
+  "description": "Eliminates AI defensive responses in daily chat: preemptive disclaimers, fence-sitting, sycophantic folding, goalpost-moving, and preachy moralizing. Includes bilingual skills (ZH/EN) and always-on rules.",
+  "author": {
+    "name": "W-aPoint",
+    "url": "https://github.com/W-aPoint"
+  },
+  "homepage": "https://github.com/W-aPoint/anti-defensive-chat",
+  "repository": "https://github.com/W-aPoint/anti-defensive-chat",
+  "suggestedPrompts": [
+    "不要叠甲和和稀泥，直接给出明确结论",
+    "像平级损友一样批判性评估我的这个想法，指出最致命的瓶颈",
+    "/direct frank 帮我压力测试这个日常决策"
+  ]
+}

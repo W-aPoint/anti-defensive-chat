@@ -1,0 +1,17 @@
+{
+  "name": "w-apoint-anti-defensive-chat",
+  "plugins": [
+    {
+      "name": "anti-defensive-chat",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

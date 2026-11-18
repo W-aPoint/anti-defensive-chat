@@ -1,0 +1,14 @@
+{
+  "name": "w-apoint-anti-defensive-chat",
+  "owner": {
+    "name": "W-aPoint",
+    "url": "https://github.com/W-aPoint"
+  },
+  "plugins": [
+    {
+      "name": "anti-defensive-chat",
+      "source": "./",
+      "description": "Eliminates AI defensive responses in daily chat: preemptive disclaimers, fence-sitting, sycophantic folding, goalpost-moving, and preachy moralizing."
+    }
+  ]
+}

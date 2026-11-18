@@ -1,0 +1,20 @@
+{
+  "name": "anti-defensive-chat",
+  "version": "1.0.0",
+  "description": "Eliminates AI defensive responses in daily chat: preemptive disclaimers, fence-sitting, sycophantic folding, goalpost-moving, and preachy moralizing.",
+  "author": {
+    "name": "W-aPoint",
+    "url": "https://github.com/W-aPoint"
+  },
+  "homepage": "https://github.com/W-aPoint/anti-defensive-chat",
+  "repository": "https://github.com/W-aPoint/anti-defensive-chat",
+  "license": "MIT",
+  "keywords": [
+    "anti-sycophancy",
+    "anti-defensive",
+    "no-hedging",
+    "direct-communication",
+    "daily-chat",
+    "skills"
+  ]
+}
